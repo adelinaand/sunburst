@@ -1,0 +1,2847 @@
+﻿{
+  "name": "Interests",
+    "children": [
+        {
+            "name": "Food",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 4",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Art",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander: 3 ",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore: 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey: 6",
+                            "size": 5
+
+                        }
+                    ]
+                },
+                {
+                    "name": "Math",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 6 ",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 7",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Stat",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 7",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Comp",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 7",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "P",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 5",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CG",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 2",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "HCI",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 2",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "UX",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 3",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "C",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 9",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Col",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 9",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CR",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Garrick Ollivander, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Albus Dumbledore, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sirius Black, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Colin Creevey, 2",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 5",
+                            "size": 5
+
+                        },
+                        {
+                            "name": "Reginald Cattermole: 2",
+                            "size": 5
+
+                        },
+                        {
+                            "name": "Marcus Flint: 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 3",
+                            "size": 5
+                        }
+
+                    ]
+                },
+                {
+                    "name": "Art",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 6",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Math",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 4",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Stat",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 1",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Comp",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 8",
+                            "size": 5
+                        },
+
+                        {
+                            "name": "Amycus Carrow: 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 9",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "P",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 6",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CG",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 4",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "HCI",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 8",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "UX",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 7",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "C",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 3",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Col",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 6",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CR",
+                    "children": [
+                        {
+                            "name": "Charity Burbage: 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amycus Carrow: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Reginald Cattermole: 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Marcus Flint: 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Minerva McGonagall: 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Graham Montague: 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Remus Lupin: 5",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Game development",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 2
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 4
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 1
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 6
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Art",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 7
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 3
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 3
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 2
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Math",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 7
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 3
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 5
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 7
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 8
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Stat",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 9
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 4
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 7
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 8
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 4
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Comp",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 9
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 10
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 9
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 9
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 9
+                        }
+                    ]
+
+                },
+                {
+                    "name": "P",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 8
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 4
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 6
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 7
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "CG",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 4
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 6
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 1
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 7
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "HCI",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 9
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 4
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 4
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 7
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 4
+                        }
+                    ]
+
+                },
+                {
+                    "name": "UX",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 8
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 3
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 3
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 3
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 3
+                        }
+                    ]
+
+                },
+                {
+                    "name": "C",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 9
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 6
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 7
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 7
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 9
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Col",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 9
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 10
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 8
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 7
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 4
+                        }
+                    ]
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Fleur Delacour ",
+                            "size": 9
+                        },
+                        {
+                            "name": "Hannah Abbott ",
+                            "size": 6
+                        },
+                        {
+                            "name": "Terry Boot",
+                            "size": 8
+                        },
+                        {
+                            "name": "Quirinus Quirrell",
+                            "size": 6
+                        },
+                        {
+                            "name": "Alecto Carrow",
+                            "size": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Movies",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins,3 ",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 6",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Art",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 3",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Math",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 4",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Stat",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 4",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Comp",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 8",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "P",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 6",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CG",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 2",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "HCI",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 6",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "UX",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 6",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "C",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 7",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Col",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 3",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 5",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Music",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 4",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Art",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 3",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Peter Pettigrew, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Amos Diggory, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Phineas Nigellus Black, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Demelza Robins, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cormac McLaggen, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rowena Ravenclaw, 5",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Music",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 3",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Math",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 6",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Stat",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 5",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Comp",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 7",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "P",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 6",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CG",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 2",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "HCI",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 6",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "UX",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 5",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "C",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 8",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Col",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 8",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Ludo Bagman, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Millicent Bulstrode, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Seamus Finnigan, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rolanda Hooch, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Hermione Granger, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Silvanus Kettleburn, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Poppy Pomfrey, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Xenophilius Lovegood, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lily Potter, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Sturgis Podmore, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Katie Bell, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helga Hufflepuff, 7",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5
+                },
+                {
+                    "name": "Art",
+                    "size": 5
+
+                },
+                {
+                    "name": "Math",
+                    "size": 5
+
+                },
+                {
+                    "name": "Stat",
+                    "size": 5
+
+                },
+                {
+                    "name": "Comp",
+                    "size": 5
+
+                },
+                {
+                    "name": "P",
+                    "size": 5
+                },
+                {
+                    "name": "CG",
+                    "size": 5
+
+                },
+                {
+                    "name": "HCI",
+                    "size": 5
+
+                },
+                {
+                    "name": "UX",
+                    "size": 5
+
+                },
+                {
+                    "name": "C",
+                    "size": 5
+
+                },
+                {
+                    "name": "Col",
+                    "size": 5
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "name": "Sports/Nature",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5
+                },
+                {
+                    "name": "Art",
+                    "size": 5
+
+                },
+                {
+                    "name": "Math",
+                    "size": 5
+
+                },
+                {
+                    "name": "Stat",
+                    "size": 5
+
+                },
+                {
+                    "name": "Comp",
+                    "size": 5
+
+                },
+                {
+                    "name": "P",
+                    "size": 5
+                },
+                {
+                    "name": "CG",
+                    "size": 5
+
+                },
+                {
+                    "name": "HCI",
+                    "size": 5
+
+                },
+                {
+                    "name": "UX",
+                    "size": 5
+
+                },
+                {
+                    "name": "C",
+                    "size": 5
+
+                },
+                {
+                    "name": "Col",
+                    "size": 5
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "name": "Games",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 8",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Art",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 7",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Math",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 7",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Stat",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 8",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Comp",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 9",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "P",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 8",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CG",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 8",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "HCI",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 6",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "UX",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 6",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "C",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 8",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Col",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 9",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Amelia Bones, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Theodore Nott, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cuthbert Binns, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Neville Longbottom, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Pansy Parkinson, 6",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Programming",
+            "size": 5,
+            "children": [
+                {
+                    "name": "IV",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 2",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Art",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 1",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Math",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 4",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Stat",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 2",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Comp",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 6",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "P",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 5",
+                            "size": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "CG",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 1",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "HCI",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 4",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "UX",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 2",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "C",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 10",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Col",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 7",
+                            "size": 5
+                        }
+                    ]
+
+                },
+                {
+                    "name": "CR",
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Frank Bryce, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cornelius Fudge, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Viktor Krum, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Mary Cattermole, 9",
+                            "size": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+  
+
+   
