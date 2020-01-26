@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Interests",
     "children": [
         {
@@ -1409,7 +1409,7 @@
                             "size": 5
                         },
                         {
-                            "name": "Silvanus Kettleburn, 5",
+                            "name": "Silvanus Kettleburn, 4",
                             "size": 5
                         },
                         {
@@ -1437,76 +1437,10 @@
                             "size": 5
                         }
                     ]
-                },
-                {
-                    "name": "Art",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Peter Pettigrew, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Amos Diggory, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Phineas Nigellus Black, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Demelza Robins, 9",
-                            "size": 5
-                        },
-                        {
-                            "name": "Cormac McLaggen, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rowena Ravenclaw, 3",
-                            "size": 5
-                        }
-                    ]
 
                 },
                 {
-                    "name": "CR",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Peter Pettigrew, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Amos Diggory, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Phineas Nigellus Black, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Demelza Robins, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Cormac McLaggen, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rowena Ravenclaw, 5",
-                            "size": 5
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Music",
-            "size": 5,
-            "children": [
-                {
-                    "name": "IV",
+                    "name": "Art",
                     "size": 5,
                     "children": [
                         {
@@ -1558,555 +1492,554 @@
                             "size": 5
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "name": "Math",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Millicent Bulstrode, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 6",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "Stat",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 8",
+                    "size": 5
                 },
                 {
-                    "name": "Math",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 6",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Millicent Bulstrode, 1",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 5",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "Comp",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 7",
+                    "size": 5
                 },
                 {
-                    "name": "Stat",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 1",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 5",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Millicent Bulstrode, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 7",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "P",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 6",
+                    "size": 5
                 },
                 {
-                    "name": "Comp",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 7",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Millicent Bulstrode, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 1",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 10",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 6",
+                    "size": 5
+                }
+            ]
+        },
+        {
+            "name": "CG",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Millicent Bulstrode, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 1",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 2",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "HCI",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 4",
+                    "size": 5
                 },
                 {
-                    "name": "P",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 1",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 10",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 6",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Millicent Bulstrode, 3",
+                    "size": 5
                 },
                 {
-                    "name": "CG",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 1",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 2",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Seamus Finnigan, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 6",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "UX",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 1",
+                    "size": 5
                 },
                 {
-                    "name": "HCI",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 6",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Millicent Bulstrode, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 5",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "C",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 10",
+                    "size": 5
                 },
                 {
-                    "name": "UX",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 1",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 5",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Millicent Bulstrode, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 10",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 10",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 9",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 8",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "Col",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 5",
+                    "size": 5
                 },
                 {
-                    "name": "C",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 10",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 10",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 10",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 9",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 8",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Millicent Bulstrode, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Seamus Finnigan, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 9",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 9",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 7",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 4",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 8",
+                    "size": 5
+                }
+            ]
 
+        },
+        {
+            "name": "CR",
+            "size": 5,
+            "children": [
+                {
+                    "name": "Ludo Bagman, 9",
+                    "size": 5
                 },
                 {
-                    "name": "Col",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 9",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 9",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 7",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 4",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 8",
-                            "size": 5
-                        }
-                    ]
-
+                    "name": "Millicent Bulstrode, 1",
+                    "size": 5
                 },
                 {
-                    "name": "CR",
-                    "size": 5,
-                    "children": [
-                        {
-                            "name": "Ludo Bagman, 9",
-                            "size": 5
-                        },
-                        {
-                            "name": "Millicent Bulstrode, 1",
-                            "size": 5
-                        },
-                        {
-                            "name": "Seamus Finnigan, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Rolanda Hooch, 9",
-                            "size": 5
-                        },
-                        {
-                            "name": "Hermione Granger, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Silvanus Kettleburn, 6",
-                            "size": 5
-                        },
-                        {
-                            "name": "Poppy Pomfrey, 3",
-                            "size": 5
-                        },
-                        {
-                            "name": "Xenophilius Lovegood, 5",
-                            "size": 5
-                        },
-                        {
-                            "name": "Lily Potter, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Sturgis Podmore, 2",
-                            "size": 5
-                        },
-                        {
-                            "name": "Katie Bell, 8",
-                            "size": 5
-                        },
-                        {
-                            "name": "Helga Hufflepuff, 7",
-                            "size": 5
-                        }
-                    ]
+                    "name": "Seamus Finnigan, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Rolanda Hooch, 9",
+                    "size": 5
+                },
+                {
+                    "name": "Hermione Granger, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Silvanus Kettleburn, 6",
+                    "size": 5
+                },
+                {
+                    "name": "Poppy Pomfrey, 3",
+                    "size": 5
+                },
+                {
+                    "name": "Xenophilius Lovegood, 5",
+                    "size": 5
+                },
+                {
+                    "name": "Lily Potter, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Sturgis Podmore, 2",
+                    "size": 5
+                },
+                {
+                    "name": "Katie Bell, 8",
+                    "size": 5
+                },
+                {
+                    "name": "Helga Hufflepuff, 7",
+                    "size": 5
                 }
             ]
         },
@@ -2116,60 +2049,564 @@
             "children": [
                 {
                     "name": "IV",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 6",
+                            "size": 5
+                        }
+                    ]
                 },
                 {
                     "name": "Art",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 6",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Math",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 6",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Stat",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 7",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Comp",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 6",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "P",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 7",
+                            "size": 5
+                        }
+                    ]
                 },
                 {
                     "name": "CG",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff,1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 4",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "HCI",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 4",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "UX",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 2",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "C",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 4",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Col",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 4",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "CR",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Filius Flitwick, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Godric Gryffindor, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Harry Potter, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Helena Ravenclaw, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Antioch Peverell, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Penelope Clearwater, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Irma Pince, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Gellert Grindelwald, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Igor Karkaroff, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Rubeus Hagrid, 3",
+                            "size": 5
+                        }
+                    ]
                 }
             ]
         },
@@ -2179,60 +2616,611 @@
             "children": [
                 {
                     "name": "IV",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 3",
+                            "size": 5
+                        }
+                    ]
                 },
                 {
                     "name": "Art",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 4",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Math",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 3",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Stat",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 2",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Comp",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 8",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "P",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 6",
+                            "size": 5
+                        }
+                    ]
                 },
                 {
                     "name": "CG",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 1",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "HCI",
-                    "size": 5
-
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 4",
+                            "size": 5
+                        }
+                    ]
                 },
                 {
                     "name": "UX",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 1",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 4",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 3",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "C",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 6",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "Col",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 10",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 10",
+                            "size": 5
+                        }
+                    ]
 
                 },
                 {
                     "name": "CR",
-                    "size": 5
+                    "size": 5,
+                    "children": [
+                        {
+                            "name": "Vincent Crabbe, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Lavender Brown, 3",
+                            "size": 5
+                        },
+                        {
+                            "name": "Ernie Macmillan, 9",
+                            "size": 5
+                        },
+                        {
+                            "name": "Cho Chang, 6",
+                            "size": 5
+                        },
+                        {
+                            "name": "Michael Corner, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "Draco Malfoy, 8",
+                            "size": 5
+                        },
+                        {
+                            "name": "Tom Marvolo Riddle, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Susan Bones, 5",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bellatrix Lestrange, 7",
+                            "size": 5
+                        },
+                        {
+                            "name": "James Potter, 2",
+                            "size": 5
+                        },
+                        {
+                            "name": "Bathilda Bagshot, 5",
+                            "size": 5
+                        }
+                    ]
                 }
             ]
         },
